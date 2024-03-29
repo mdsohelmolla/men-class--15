@@ -101,13 +101,14 @@ display: inline-block;
     float: left;
     width: 23%;
     padding: 0px 10px;
-    border-bottom: 3px solid aquamarine;
     padding-bottom: 30px;
+}
+.boder{
+    border-bottom: 3px solid aquamarine;
 }
 .services-item samp{
 font-size: 30px;
 color: aquamarine;
-
 }
 .services-item h3{
     padding-top: 25px;
